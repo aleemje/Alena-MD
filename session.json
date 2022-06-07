@@ -38,7 +38,7 @@
       "keyId": 1
     },
     "registrationId": 173,
-    "advSecretKey": "4fRaqzeIfBvlrLqfvNQ0C5IPM1ihztAMWu79kNnYDAM=",
+    "advSecretKey": "4fRaqzeIfBvlrLqfvNQ0C5IPM1ihztAMWu79kNnYDAM="
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
@@ -409,7 +409,7 @@
     },
     "appStateSyncKeys": {
       "AAAAACHW": {
-        "keyData": "yKQWAIwgQVi5zIGekXiQO7a+O1SiNWiUFZTcyCMr1hk=",
+        "keyData": "currentIndex+O1SiNWiUFZTcyCMr1hk=",
         "fingerprint": {
           "rawId": 1959002360,
           "currentIndex": 2,
